@@ -39,7 +39,7 @@ experience.
 ## 📸 Dashboard Preview
 
 ### Cover Page
-![Cover Page](images/01_cover_page.png)
+[![Cover Page](images/01_cover_page.png)](https://github.com/rathodvikram9000-web/PowerBI-ncr-ride-booking-dashboard/blob/main/images/01_cover_page.png.png)
 
 ### Executive Overview
 ![Executive Overview](images/02_executive_overview.png)

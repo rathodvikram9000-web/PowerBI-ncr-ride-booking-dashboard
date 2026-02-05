@@ -57,7 +57,7 @@ experience.
 [![Peak Time Analysis](images/06_peak_time_analysis.png)](https://github.com/rathodvikram9000-web/PowerBI-ncr-ride-booking-dashboard/blob/main/images/06_peak_time_analysis.png.png)
 
 ### Customer & Driver Experience
-![Customer Experience](images/07_customer_experience.png)
+[![Customer Experience](images/07_customer_experience.png)](https://github.com/rathodvikram9000-web/PowerBI-ncr-ride-booking-dashboard/blob/main/images/07_customer_experience.png.png)
 
 
 

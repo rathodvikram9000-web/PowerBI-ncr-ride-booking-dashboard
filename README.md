@@ -51,7 +51,7 @@ experience.
 [![Cancellation Analysis](images/04_cancellation_analysis.png)](https://github.com/rathodvikram9000-web/PowerBI-ncr-ride-booking-dashboard/blob/main/images/04_cancellation_analysis.png.png)
 
 ### Location Analysis
-![Location Analysis](images/05_location_analysis.png)
+[![Location Analysis](images/05_location_analysis.png)](https://github.com/rathodvikram9000-web/PowerBI-ncr-ride-booking-dashboard/blob/main/images/05_location_analysis.png.png)
 
 ### Peak Time Analysis
 ![Peak Time Analysis](images/06_peak_time_analysis.png)

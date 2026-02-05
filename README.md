@@ -36,4 +36,28 @@ experience.
 ## 👤 Author
 **Vikram Rathod**
 
+## 📸 Dashboard Preview
+
+### Cover Page
+![Cover Page](images/01_cover_page.png)
+
+### Executive Overview
+![Executive Overview](images/02_executive_overview.png)
+
+### Revenue Insights
+![Revenue Insights](images/03_revenue_insights.png)
+
+### Cancellation Analysis
+![Cancellation Analysis](images/04_cancellation_analysis.png)
+
+### Location Analysis
+![Location Analysis](images/05_location_analysis.png)
+
+### Peak Time Analysis
+![Peak Time Analysis](images/06_peak_time_analysis.png)
+
+### Customer & Driver Experience
+![Customer Experience](images/07_customer_experience.png)
+
+
 

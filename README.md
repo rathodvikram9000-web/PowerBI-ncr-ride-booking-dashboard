@@ -45,7 +45,7 @@ experience.
 [![Executive Overview](images/02_executive_overview.png)](https://github.com/rathodvikram9000-web/PowerBI-ncr-ride-booking-dashboard/blob/main/images/02_executive_overview.png.png)
 
 ### Revenue Insights
-![Revenue Insights](images/03_revenue_insights.png)
+[![Revenue Insights](images/03_revenue_insights.png)](https://github.com/rathodvikram9000-web/PowerBI-ncr-ride-booking-dashboard/blob/main/images/03_revenue_insights.png.png)
 
 ### Cancellation Analysis
 ![Cancellation Analysis](images/04_cancellation_analysis.png)
